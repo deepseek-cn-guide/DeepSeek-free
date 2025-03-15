@@ -1,6 +1,6 @@
 # DeepSeek AI到底怎么用及7个免费使用的网站推荐【2025年3月】
 
->更新时间: 2025-03-08
+>更新时间: 2025-03-16
 ---
 
 ## **1. 什么是DeepSeek AI**
@@ -26,7 +26,7 @@ DeepSeek AI提供了一系列丰富的功能，各个功能专项都相当强大
 
 在 [chat.lify.vip](https://chat.lify.vip)，你可以使用到满血版的DeepSeek R1。
 
-体验了一下，速度还挺快！不仅如此，你还能够使用GPT4、GPT o1、GPT o3 mini、Midjourney等等。它的好处是生态完善，不止有对话功能，还有AI助手、AI绘画、AI生成PPT、AI翻译等等。可以说功能非常多，满足你不同的需求。
+体验了一下，速度还挺快！不仅如此，你还能够使用GPT4、GPT o1、GPT o3 mini、Claude 3.7 Sonnet、Midjourney等等。它的好处是生态完善，不止有对话功能，还有AI助手、AI绘画、AI生成PPT、AI翻译等等。可以说功能非常多，满足你不同的需求。
 
 另外，如果你想进一步了解支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件等功能，可以访问[这个网站](https://chat.lify.vip)。
 
